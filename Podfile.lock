@@ -1,0 +1,13 @@
+PODS:
+  - JBChartView (2.8.10)
+  - NYSegmentedControl (1.0.3)
+
+DEPENDENCIES:
+  - JBChartView (~> 2.8.9)
+  - NYSegmentedControl (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  JBChartView: 50b221ef68d0934f5aea417a369a5b02167848a9
+  NYSegmentedControl: 74094b886a80bfc4e9f6d415601e9b11797b22b7
+
+COCOAPODS: 0.34.4
