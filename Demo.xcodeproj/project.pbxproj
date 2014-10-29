@@ -67,8 +67,6 @@
 		40D12C6219FD0EF50005E95F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40D12C6119FD0EF50005E95F /* Images.xcassets */; };
 		40D12C6519FD0EF50005E95F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 40D12C6319FD0EF50005E95F /* LaunchScreen.xib */; };
 		40D12C7119FD0EF50005E95F /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40D12C7019FD0EF50005E95F /* DemoTests.m */; };
-		57CEA8551EF359CAB5325A52 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C2065F517F73288FACF4940C /* libPods.a */; };
-		CDAA6BDB2E6073C68C86AB6A /* libPods-Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 71F1BEE4BF93BA3F1DAC8B83 /* libPods-Demo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -196,8 +194,6 @@
 				4057042219FD1BCC00FB690E /* UIKit.framework in Frameworks */,
 				4057042019FD1BC400FB690E /* Foundation.framework in Frameworks */,
 				4057041E19FD1BBD00FB690E /* CoreGraphics.framework in Frameworks */,
-				57CEA8551EF359CAB5325A52 /* libPods.a in Frameworks */,
-				CDAA6BDB2E6073C68C86AB6A /* libPods-Demo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
